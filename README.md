@@ -1,4 +1,4 @@
-##Follow Along
+## Follow Along
 
 ---------------------------
 
@@ -10,7 +10,7 @@ MyArgs(true) - Creates Object, Prints the options given by getHelp (), and the u
 
 ---------------------------
 
-##DO:
+## DO:
 
 Libraries->right Click->Add Project..->CLArgs.jar
 
@@ -18,7 +18,7 @@ indispensability: import args.MyArgs;
 
 -----------------------------------
 
-##Example:
+## Example:
  
 Prints on terminal:
 
