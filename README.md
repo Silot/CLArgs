@@ -1,5 +1,5 @@
 Follow Along
---------------
+---------------------------
 
 Constructor
 	MyArgs() - Creates Object and the user is ready to act
@@ -44,9 +44,10 @@ It can create folders or delete them by selecting both the path itself and the f
 It also has the ability to handle Strings that can select what phrase they want to print as well as how they are horizontally or vertically. These functions enable the programmer to choose whether or not to have a return value.
 You can also call help with options as well as get the name of the individual computer that works independently with the platform.
 
+------------------------------
 
+# CLArgs - about (find more in the repo's wiki)
 
-# CLArgs
 A command-line argument or parameter is an item of information provided to a program when it is started. A program can have many command-line arguments that identify sources or destinations of information, or that alter the operation of the program.
 
 When a command processor is active a program is typically invoked by typing its name followed by command-line arguments (if any). For example, in Unix and Unix-like environments, an example of a command-line argument is:
