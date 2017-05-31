@@ -1,30 +1,35 @@
 Follow Along
+
 ---------------------------
 
-Constructor
-	MyArgs() - Creates Object and the user is ready to act
-	MyArgs(true) - Creates Object, Prints the options given by getHelp (), and the user is ready to act.
+Constructor:
+
+MyArgs() - Creates Object and the user is ready to act
+
+MyArgs(true) - Creates Object, Prints the options given by getHelp (), and the user is ready to act.
+
 ---------------------------
+
 DO:
+
 Libraries->right Click->Add Project..->CLArgs.jar
 
 indispensability: import args.MyArgs;
+
 -----------------------------------
+
 Example:
-
-public static void main (String [] args) {
-        MyArgs ma = new MyArgs (true);
-
-    }
-    
+ 
 Prints on terminal:
 
  Hello [user name (computer)]
+ 
 Options:
- -pwd, --Print Working Directory
+
+-pwd, --Print Working Directory
 -md, --Make Directory
 -rd, --Remove Directory
- -Eh, -Echo Horisontaly
+-Eh, -Echo Horisontaly
 -ev, --Echo Vertically
 -w, Print Who Am I -x, - Exit
 
