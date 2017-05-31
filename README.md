@@ -27,11 +27,17 @@ Prints on terminal:
 Options:
 
 -pwd, --Print Working Directory
+
 -md, --Make Directory
+
 -rd, --Remove Directory
+
 -Eh, -Echo Horisontaly
+
 -ev, --Echo Vertically
+
 -w, Print Who Am I -x, - Exit
+
 
 Ready:
 
