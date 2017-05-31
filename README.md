@@ -37,9 +37,8 @@ Options:
 -ev, --Echo Vertically
 
 -w, Print Who Am I -x, 
-
-- Exit
-
+ 
+ to quit ->  - Exit
 
 Ready:
 
