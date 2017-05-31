@@ -1,4 +1,4 @@
-Follow Along
+##Follow Along
 
 ---------------------------
 
@@ -10,7 +10,7 @@ MyArgs(true) - Creates Object, Prints the options given by getHelp (), and the u
 
 ---------------------------
 
-DO:
+##DO:
 
 Libraries->right Click->Add Project..->CLArgs.jar
 
@@ -18,7 +18,7 @@ indispensability: import args.MyArgs;
 
 -----------------------------------
 
-Example:
+##Example:
  
 Prints on terminal:
 
@@ -44,6 +44,7 @@ Options:
 Ready:
 
 -------------------------------
+## About
 
 The Library enables the user to use it through an IDE or execute an .java, .class array in the terminal
 To do this first, set a main () as in the example to locate the file through the terminal and make compile javac named.java and execute the java name that is referenced in the file name.class
